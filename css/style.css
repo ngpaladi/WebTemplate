@@ -1,0 +1,23 @@
+body {
+    background-color: lightgrey;
+}
+
+.splash {
+    background-color: black;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.splash h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 100px;
+}
+.splash h2 {
+    color: lightgray;
+    font-weight: normal;
+}
